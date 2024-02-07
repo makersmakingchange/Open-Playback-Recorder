@@ -1,0 +1,9 @@
+Version 1.0 | 2023-10-05
+ - Initial Device
+ - 3 Levels of stored messages
+ - Play messages back one by one
+ - Design and Documentation by Neil Squire Society
+
+
+
+
