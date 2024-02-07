@@ -2,7 +2,7 @@
  # Open Playback Recorder
 
 
-The Open Playback Recorder is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $80 (plus $8 for component shipping).
+The Open Playback Recorder is an open-source device that can record three lists of voice messages that its user can playback via the trigger of an accessible button connected through a 3.5 mm mono jack. It aims to assist users with communication difficulties by giving them alternative methods to engage in conversation. This device has functionality similar to AbleNet’s Big Mack or Step by Step. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $80 (plus $8 for component shipping).
 
 <img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
 
