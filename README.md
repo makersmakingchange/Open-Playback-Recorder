@@ -38,7 +38,7 @@ The [Bill of Materials](/Documentation/Open_Playback_Recorder_BOM_V1.0.xlsx) lis
 
 ### 3. Print the 3D Printable components
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the Open Playback Recorder
 
