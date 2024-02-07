@@ -61,7 +61,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
  - [CAD Files](/Design_Files/CAD)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ### Software Files
  - [Software Files](/Build/Software_Files)
