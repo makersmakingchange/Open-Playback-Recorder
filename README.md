@@ -58,13 +58,13 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Changelog            | 1.0     | [Open_Playback_Recorder_Changelog](CHANGES.txt)     |
 
 ### Design Files
- - [CAD Files](/Design_Files/CAD)
+ - [CAD Files](/Design_Files/CAD_Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ### Software Files
- - [Software Files](/Build/Software_Files)
+ - [Software Files](/Build_Files/Software_Files)
 
 ## Attribution
 Designers:
