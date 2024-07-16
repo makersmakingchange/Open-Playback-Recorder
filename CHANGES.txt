@@ -1,41 +1,3 @@
-<<<<<<< HEAD
-Version 1.0 | 2024-02-22
- - Initial release
-  - Reconfigured to divide into two main boards connected by set of Dupoint wires
-  - Redesigned enclosure
-  - Buttons and lights moved to front face
-  - input jacks moved to left side
-  - Added button for cycling between levels
-  - Added LEDs to indicate current level
-  - Reconfigured one switch input to cycle level instead of record
-
-
-Version 0.3 | 2023
- - Switched to less expensive Seeduino Nano microcontroller
- - Switched to PAM 8402 Audio amplifier
- - Add separate power switch
- - Adafruit MicroSD reader
- - Added 3 level switch to add multiple message sets/levels
- - Refined 3D printed enclosure
-
-Version 0.2 | 2023 | MVP
- - MVP Design
-  - Created two-part 3D printable enclosure
-  - Arduino Micro microcontroller
-  - Power switch integrated into volume control
-
-Version 0.1 | 2022 | 
- - Proof of Concept Prototype
-  - Bread-board circuit
-  - Arduino Uno Microcontroller
-  - MAX9814 Microphone module
-  - Pam8302A Audio Amplifier
-  - MicroSD message storage
-  - Two LEDs to indicate playback/power and record
-  - 2 switch ports and 2 built-in buttons for play / record
-  - volume control
-  - Record and playback single set of messages
-=======
 Version 2.0 | 2024-06-26
  - Updating inital device to use a PCB
  - Redesigned the CAD to accomodate new PCB
@@ -47,7 +9,7 @@ Version 1.0 | 2023-10-05
  - 3 Levels of stored messages
  - Play messages back one by one
  - Design and Documentation by Neil Squire Society
->>>>>>> PCB-Version
+
 
 
 
