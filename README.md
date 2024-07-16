@@ -2,7 +2,7 @@
  # Open Playback Recorder
 
 
-The Open Playback Recorder is an open-source device that can record three lists of voice messages that its user can playback via the trigger of an accessible button connected through a 3.5 mm mono jack. It aims to assist users with communication difficulties by giving them alternative methods to engage in conversation. This device has functionality similar to AbleNet’s Big Mack or Step by Step. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $80 (plus $8 for component shipping).
+The Open Playback Recorder is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $80 (plus $8 for component shipping).
 
 <img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
 
@@ -27,22 +27,24 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide_V1.0.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide_V2.0.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Open_Playback_Recorder_BOM_V1.0.xlsx) lists all of the parts and components required to build the Open Playback Recorder. The components for this device needs to be ordered online.
+The [Bill of Materials](/Documentation/Open_Playback_Recorder_BOM_V2.0.xlsx) lists all of the parts and components required to build the Open Playback Recorder. The components for this device needs to be ordered online.
 
+### 3. Order the PCBs
+The [PCB files](/Build_Files/PCB_Files) contain the Gerber files needed to order the PCBs, and instructions for how to order PCBs can be found in the [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide_V2.0.pdf)
 
-### 3. Print the 3D Printable components
+### 4. Print the 3D Printable components
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-### 4. Assemble the Open Playback Recorder
+### 5. Assemble the Open Playback Recorder
 
-Reference the [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide_V1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide_V2.0.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -51,20 +53,22 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Open_Playback_Recorder_Design_Rationale](/Documentation/Open_Playback_Recorder_Design_Rationale_V1.0.pdf)     |
-| Maker Guide          | 1.0     | [Open_Playback_Recorder_Maker_Checklist](/Documentation/Open_Playback_Recorder_Maker_Guide_V1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Open_Playback_Recorder_Bill_of_Materials](/Documentation/Open_Playback_Recorder_BOM_V1.0.xlsx)     |
-| User Guide           | 1.0     | [Open_Playback_Recorder_User_Guide](/Documentation/Open_Playback_Recorder_User_Guide_V1.0.pdf)    |
-| Changelog            | 1.0     | [Open_Playback_Recorder_Changelog](CHANGES.txt)     |
+| Design Rationale     | 2.0     | [Open_Playback_Recorder_Design_Rationale](/Documentation/Open_Playback_Recorder_Design_Rationale_V2.0.pdf)     |
+| Maker Guide          | 2.0     | [Open_Playback_Recorder_Maker_Checklist](/Documentation/Open_Playback_Recorder_Maker_Guide_V2.0.pdf)     |
+| Bill of Materials    | 2.0     | [Open_Playback_Recorder_Bill_of_Materials](/Documentation/Open_Playback_Recorder_BOM_V2.0.xlsx)     |
+| User Guide           | 2.0     | [Open_Playback_Recorder_User_Guide](/Documentation/Open_Playback_Recorder_User_Guide_V2.0.pdf)    |
+| Changelog            | 2.0     | [Open_Playback_Recorder_Changelog](CHANGES.txt)     |
 
 ### Design Files
- - [CAD Files](/Design_Files/CAD_Design_Files)
+ - [CAD Files](/Design_Files/CAD)
+ - [PCB Files](/Design_Files/PCB_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
+ - [3D Printing Files](/Build_Files/3D_Printing)
+ - [PCB Files](/Build_Files/PCB_Files)
 
 ### Software Files
- - [Software Files](/Build_Files/Software_Files)
+ - [Software Files](/Build/Software_Files)
 
 ## Attribution
 Designers:
