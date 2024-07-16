@@ -2,7 +2,11 @@
  # Open Playback Recorder
 
 
-The Open Playback Recorder is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $80 (plus $8 for component shipping).
+The Open Playback Recorder is an open-source device that can record three lists of voice messages that its user can playback via the trigger of an accessible button connected through a 3.5 mm mono jack. It aims to assist users with communication difficulties by giving them alternative methods to engage in conversation. This device has functionality like AbleNet’s Big Mack or Step by Step.  
+
+The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $90 (plus $8 for component shipping).
+
+The Open Playback Recorder is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
 <img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
 
@@ -53,10 +57,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 2.0     | [Open_Playback_Recorder_Design_Rationale](/Documentation/Open_Playback_Recorder_Design_Rationale_V2.0.pdf)     |
-| Maker Guide          | 2.0     | [Open_Playback_Recorder_Maker_Checklist](/Documentation/Open_Playback_Recorder_Maker_Guide_V2.0.pdf)     |
-| Bill of Materials    | 2.0     | [Open_Playback_Recorder_Bill_of_Materials](/Documentation/Open_Playback_Recorder_BOM_V2.0.xlsx)     |
-| User Guide           | 2.0     | [Open_Playback_Recorder_User_Guide](/Documentation/Open_Playback_Recorder_User_Guide_V2.0.pdf)    |
+| Design Rationale     | 2.0     | [Open_Playback_Recorder_Design_Rationale](/Documentation/Open_Playback_Recorder_Design_Rationale.pdf)     |
+| Maker Guide          | 2.0     | [Open_Playback_Recorder_Maker_Checklist](/Documentation/Open_Playback_Recorder_Maker_Guide.pdf)     |
+| Bill of Materials    | 2.0     | [Open_Playback_Recorder_Bill_of_Materials](/Documentation/Open_Playback_Recorder_BOM.xlsx)     |
+| User Guide           | 2.0     | [Open_Playback_Recorder_User_Guide](/Documentation/Open_Playback_Recorder_User_Guide.pdf)    |
 | Changelog            | 2.0     | [Open_Playback_Recorder_Changelog](CHANGES.txt)     |
 
 ### Design Files
