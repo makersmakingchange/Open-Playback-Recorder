@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Version 1.0 | 2024-02-22
  - Initial release
   - Reconfigured to divide into two main boards connected by set of Dupoint wires
@@ -34,6 +35,20 @@ Version 0.1 | 2022 |
   - 2 switch ports and 2 built-in buttons for play / record
   - volume control
   - Record and playback single set of messages
+=======
+Version 2.0 | 2024-06-26
+ - Updating inital device to use a PCB
+ - Redesigned the CAD to accomodate new PCB
+ - Updated parts list for PCB mount components
+ - Software remains the same
+
+Version 1.0 | 2023-10-05
+ - Initial Device
+ - 3 Levels of stored messages
+ - Play messages back one by one
+ - Design and Documentation by Neil Squire Society
+>>>>>>> PCB-Version
+
 
 
 
