@@ -44,7 +44,7 @@ The [PCB files](/Build_Files/PCB_Files) contain the Gerber files needed to order
 
 ### 4. Print the 3D Printable components
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 5. Assemble the Open Playback Recorder
 
@@ -64,15 +64,15 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Changelog            | 2.0     | [Open_Playback_Recorder_Changelog](CHANGES.txt)     |
 
 ### Design Files
- - [CAD Files](/Design_Files/CAD)
+ - [CAD Files](/Design_Files/CAD_Design_Files)
  - [PCB Files](/Design_Files/PCB_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
  - [PCB Files](/Build_Files/PCB_Files)
 
 ### Software Files
- - [Software Files](/Build/Software_Files)
+ - [Software Files](/Build_Files/Firmware_Files)
 
 ## Attribution
 Designers:
