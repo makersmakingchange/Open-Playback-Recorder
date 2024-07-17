@@ -11,7 +11,7 @@ The Open Playback Recorder is open assistive technology (OpenAT). Under the term
 <img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
 
 ## More info at
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/s/product/open-playback-recorder)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/s/product/open-playback-recorder/01tJR000003DNOVYA4)
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -20,7 +20,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-You may also submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/open-playback-recorder/) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
+You may also submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/open-playback-recorder/01tJR000003DNOVYA4) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
 
 ### 3. Build this device for someone else
 
@@ -79,10 +79,10 @@ Designers:
  - Neil Squire Society / Makers Making Change
 
 Contributors:
- -Brad Wellington
- -Erik Steinthorson
- -Jake McIvor
- -Derrick Andrews
+ - Brad Wellington
+ - Erik Steinthorson
+ - Jake McIvor
+ - Derrick Andrews
 
 
 ## License
