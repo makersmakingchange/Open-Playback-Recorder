@@ -79,13 +79,9 @@ Designers:
  - Neil Squire Society / Makers Making Change
 
 Contributors:
-
  -Brad Wellington
-
  -Erik Steinthorson
-
  -Jake McIvor
-
  -Derrick Andrews
 
 
