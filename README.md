@@ -78,11 +78,16 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 Designers:
  - Neil Squire Society / Makers Making Change
 
-Contributors
+Contributors:
+
  -Brad Wellington
+
  -Erik Steinthorson
+
  -Jake McIvor
+
  -Derrick Andrews
+
 
 ## License
 Copyright (c) 2024 Neil Squire / Makers Making Change.
