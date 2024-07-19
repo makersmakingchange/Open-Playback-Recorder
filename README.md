@@ -37,7 +37,7 @@ The [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide.pdf)  contai
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Open_Playback_Recorder_BOM.xlsx) lists all of the parts and components required to build the Open Playback Recorder. The components for this device needs to be ordered online.
+The [Bill of Materials](/Documentation/Open_Playback_Recorder_BOM.xlsx) lists all of the parts and components required to build the Open Playback Recorder. Several  components for this device will need to be ordered online.
 
 ### 3. Order the PCBs
 The [PCB files](/Build_Files/PCB_Files) contain the Gerber files needed to order the PCBs, and instructions for how to order PCBs can be found in the [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide.pdf)
@@ -79,6 +79,7 @@ Designers:
  - Neil Squire Society / Makers Making Change
 
 Contributors:
+
  - Brad Wellington
  - Erik Steinthorson
  - Jake McIvor
