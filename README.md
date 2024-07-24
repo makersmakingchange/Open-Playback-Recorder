@@ -6,7 +6,7 @@ The Open Playback Recorder is an open-source device that can record three lists 
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $90 (plus $8 for component shipping).
 
-The Open Playback Recorder is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+The Open Playback Recorder is Open Assistive Technology (OpenAT) and is certified as Open Source Hardware by the Open Source Hardware Association under the OSHWA UID [CA000050](https://certification.oshwa.org/ca000050.html). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
 <img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
 
