@@ -118,7 +118,7 @@ const int level_1 {A3};
 int file_number =0;
 int file_level {1};
 int old_level = {1};
-int current_message {0};
+int current_message {1};
 const int sample_rate {16000};
 const String file_extension {".wav"}; 
 int old_file_level {1};
