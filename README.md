@@ -1,8 +1,6 @@
- 
- # Open Playback Recorder
+# Open Playback Recorder
 
-
-The Open Playback Recorder is an open-source device that can record three lists of voice messages that its user can playback via the trigger of an accessible button connected through a 3.5 mm mono jack. It aims to assist users with communication difficulties by giving them alternative methods to engage in conversation. This device has functionality like AbleNet’s Big Mack or Step by Step.  
+The Open Playback Recorder can record three lists of voice messages that its user can playback via the trigger of an accessible button connected through a 3.5 mm mono jack. It aims to assist users with communication difficulties by giving them alternative methods to engage in conversation. This device has functionality similar to AbleNet’s Big Mack or Step by Step.  
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $90 (plus $8 for component shipping).
 
@@ -10,8 +8,8 @@ The Open Playback Recorder is Open Assistive Technology (OpenAT) and is certifie
 
 <img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
 
-## More info at
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/s/product/open-playback-recorder/01tJR000003DNOVYA4)
+## Makers Making Change Assistive Device Library
+ - https://www.makersmakingchange.com/s/product/open-playback-recorder/01tJR000003DNOVYA4
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -30,24 +28,18 @@ If you have the skills and equipment to build this device, and would like to don
 ## Build Instructions
 
 ### 1. Read through the Maker Guide
-
 The [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
-
-
 ### 2. Order the Off-The-Shelf Components
-
 The [Bill of Materials](/Documentation/Open_Playback_Recorder_BOM.xlsx) lists all of the parts and components required to build the Open Playback Recorder. Several  components for this device will need to be ordered online.
 
 ### 3. Order the PCBs
 The [PCB files](/Build_Files/PCB_Files) contain the Gerber files needed to order the PCBs, and instructions for how to order PCBs can be found in the [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide.pdf)
 
 ### 4. Print the 3D Printable components
-
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 5. Assemble the Open Playback Recorder
-
 Reference the [Maker Guide](/Documentation/Open_Playback_Recorder_Maker_Guide.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
@@ -79,7 +71,6 @@ Designers:
  - Neil Squire Society / Makers Making Change
 
 Contributors:
-
  - Brad Wellington
  - Erik Steinthorson
  - Jake McIvor
@@ -103,6 +94,7 @@ Source Location: https://github.com/makersmakingchange/Open-Playback-Recorder
 
 ---
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -121,3 +113,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
