@@ -6,7 +6,7 @@ The device is comprised of off-the-shelf electronics and 3D printed parts. The o
 
 The Open Playback Recorder is Open Assistive Technology (OpenAT) and is certified as Open Source Hardware by the Open Source Hardware Association under the OSHWA UID [CA000050](https://certification.oshwa.org/ca000050.html). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-<img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="Picture of Open Playback Recorder.">
+<img src="Photos/Open-Playback-Recorder.jpg" width="500" alt="An Open Playback Recorder with two Interact Switches with custom toppers. ">
 
 ## Makers Making Change Assistive Device Library
  - https://www.makersmakingchange.com/s/product/open-playback-recorder/01tJR000003DNOVYA4
